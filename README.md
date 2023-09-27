@@ -1,0 +1,1 @@
+El modulo scraper_boletin.py nos scrapea de la web los titulos de Sociedades y Avisos Judiciales del boletin oficial de la republica Argentina, el modulo titles.csv lo que nos hace es guardar en formato csv los titulos scrapeados.
